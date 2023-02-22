@@ -20,4 +20,13 @@ puts "Creating restaurants"
   puts "Restaurant with id: #{restaurant.id} created"
 end
 
-puts "Finished seed DB"
+puts "Finished seed restaurants in DB"
+
+
+
+puts "Creating review of restaurants"
+# 3.times do
+
+
+
+  puts "finished seeding reviews of restaurants"
